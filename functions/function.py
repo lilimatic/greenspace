@@ -2,6 +2,8 @@ import pandas as pd
 import os
 import numpy as np
 import matplotlib.pyplot as plt
+from scipy.stats import chi2_contingency
+import researchpy as rp
 
 from functions.data import df
 
@@ -35,3 +37,12 @@ def freqcount(question,tres,book,part):
     #plt.savefig('images/activity/' + question+'.png')
     return outputdf
     
+def contingencytab(x,y,book):
+    print('\033[95m' + '\033[1m' +x+ '\033[0m'+ '\033[1m' +' VS ' + '\033[94m'+ y + '\033[0m' )
+    contingency = pd.crosstab(df[x], df[y], margins=True)
+    q =  max(x.split(), key=len) + ' VS ' + max(y.split(), key=len)
+    crosstab, test_results, expected = rp.crosstab(df[x], df[y] ,test= "chi-square",expected_freqs= True,prop= "cell")
+    tab = contingency.join(crosstab, rsuffix=' in %')
+    tab.to_excel('tables/'+book+'/'+q+'.xlsx') 
+    test_results.to_excel('tables/'+book+'/'+q+'_chisq.xlsx') 
+    return tab, test_results
