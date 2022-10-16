@@ -46,3 +46,7 @@ def contingencytab(x,y,book):
     tab.to_excel('tables/'+book+'/'+q+'.xlsx') 
     test_results.to_excel('tables/'+book+'/'+q+'_chisq.xlsx') 
     return tab, test_results
+
+
+    
+
