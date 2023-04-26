@@ -1,0 +1,78 @@
+-----------------
+-- Methodology --
+-----------------
+
+The empirical study is contains 3 parts. In the premilinary stage, we analyse the descriptive structure of the data with tabular summaries (frequencies, cross-tables) and graphical plots. 
+
+In the second stage, we analyse the dependency structure between features by testing for dependence between selected features of interest with χ2-tests.
+
+In the final step, a machine learning prediction task questioning the safety in a public space during the pandemics is performed. 
+
+
+------------------------
+-- Empirical analysis --
+------------------------
+
+----------------------
+-- Data description --
+----------------------
+
+This survey consists of 13 questions answered by n= 400 participants. The question catalogue is listed in the appendix. Split by gender, 67.5 % of the participants are female and 32.5 % are male. The average respondent roughly 35 years old. Precisely, most attendants are between 25-40 years old (39.8 %). Younger participants, aged 24 years or less, form 29.2 % of the population. The remaining 31.0 % are participants between 41-64 years of age. The demographic structure is summarized in Table x and Table y. 
+
+Table 1 (Gender)
+
+Table 2 (Age)
+
+----------------------------
+-- Descriptive Statistics --
+----------------------------
+
+1. Park visit preferences
+
+Survey participants were asked about their pre-pandemic and current park visiting habits. In addition, they were asked if their park visit habits changed by the occurance of the pandemic. 
+
+Table 3 (How much time do you usually spend in parks or squares since the corona virus outbreak in Serbia?)
+
+Table 4 (How often have you visited parks or squares in 2019 during the day?)
+
+Table 5 (Regarding the parks or squares that you have visited in 2019, did you visit parks or squares more frequently during the day before the corona virus outbreak?)
+
+Table 3 to Table 5 summarize the park visit related information. During the pandemic a large proportion of the population (68.3 %) prefers to spent up to 1 hour in the park, while 20.2 % prefer longer visits. In pre-pandemic 2019, nearly half of the participants (49.5 %) visited parks at least a few times per week. In comparison to pre-pandemic visits, 64.7 % claim to visit parks as least as frequently as before the pandemic. Among these, 40.5 % increased thir visits. 
+
+In a nutshell, frequency and duration of park visits reveil that most participants are frequent park visitors. This of course verifies the representativeness of the sample. 
+
+- Further analysis sugesstions (Dara & Jelena):Proposed sentence: "This results from determined hygiene measures that only allowed for certain outdoor activities."Add quote that outdoor more safe) 
+
+2. Munipalities 
+
+Participants were ask to list several municipalities of parks and squares visited. Commonly visited parks are located in Novi Beograd (17.3 %), Vračar (14.9 %), Stari grad (14.4 %), Palilula (12.7 %) and Zemun (11.6 %). Details are provided in Table x. 
+
+Table 6 (Municipality in which you visit parks or squares)
+
+- Further analysis sugesstions (Dara & Jelena): Comment on district with most/many municipalities in Belgrade, Add park size and year it was built   
+
+3. Activity 
+
+Participants were asked about their social activity during part visits ("When visiting parks or squares you are often with x people or y pets ?"). Multiple choices were permitted. 
+
+Table 7 (When visiting parks or squares you are often)
+
+The information is summarized in Table 7. The results show that park visits are often considered as social gatherings. The majority (73.5 %) prefers to spent the park visit other people, either with another person (35.6 %), groups of friends (31.1 %) or children (6.8 %). The remaining third (26.5 %) chooses to visit the park by themselves or with a pet. By reason of social distancing during the pandemic, it is reasonable that meetings in larger groups were less popular (5.4 %). 
+
+4. App
+
+Lastly, participants are asked about their interest in the app, location-sharing preferences and about enhancements in subjective physical and Covid-related safety the app could provide. The results are summarized in Table 7 and Table 8.
+
+Table 7 (Interest, Physical safety, Covid safety)
+
+Table 8 (If your identity was not revealed, would you want to provide your phone’s location (see question 10)?)
+
+Most survey participants (64.2 %) are interested in the App. For the usage of the app, 57.0 % are anonymously willing to share their location. One aim of the app is to provide different perceptions of safety. Park monitoring would provide the feeling of physical safety to 54.2 % of the participants. COVID-related safety would be felt by 56.2 % of the participants.   
+
+---------------
+-- Inference --
+---------------
+
+
+
+
