@@ -23,7 +23,7 @@ def stats(col):
 def freqcount(question,tres,book,part):
     data_location_m = stats(question)
     output = np.sum(data_location_m)
-    output = output.drop('nan')
+    #output = output.drop('nan')
     others = output[output < tres]
     output = output[output >= tres]
     output['Others'] = np.sum(others)
@@ -31,8 +31,9 @@ def freqcount(question,tres,book,part):
     outputdf['%'] = np.round(output*100 /np.sum(output),1) 
     outputdf.columns = ['counts','%']
     outputdf.to_excel(f'/Users/lilimatic/greenspace/tables/remainder/'+part+'.xlsx')
-    plt.bar(output.index, output)
-    plt.xticks(rotation=90)
+    plt.bar(output.index, outputdf['%'])
+    plt.xticks(rotation=70)
+    #plt.title('Municipality in which participants visit parks or squares in %.')
     #plt.savefig('f'/Users/lilimatic/greenspace/images/remainder/'+part+'.xlsx')
     #plt.savefig('images/activity/' + question+'.png')
     return outputdf
