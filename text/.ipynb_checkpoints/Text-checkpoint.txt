@@ -69,10 +69,20 @@ Table 8 (If your identity was not revealed, would you want to provide your phone
 
 Most survey participants (64.2 %) are interested in the App. For the usage of the app, 57.0 % are anonymously willing to share their location. One aim of the app is to provide different perceptions of safety. Park monitoring would provide the feeling of physical safety to 54.2 % of the participants. COVID-related safety would be felt by 56.2 % of the participants.   
 
----------------
--- Inference --
----------------
+------------------------
+-- Independence tests --
+------------------------
 
+The inferential statistical analysis looks for independence among selected features. Given a 5 % confidence level, we test for independence between interest in this new technology and the subjective feeling of safety (physical, SARS-COVID2 related), 
+location sharing, demographical aspects (age, gender) and time spent in a public space, respectively. 
+
+We question independence between interest in the app and time spent in public spaces (Qa vs Qb; Qc; Qd). Table 9 to Table 11 display the contigency tables and Table 12 to Table 14 the Chi-square tests tables, respectively. 
+
+The tests indicate dependence between interest in the app and time spent in the public spaces pre-pandemic (p < 0.1 %) and frequency of park visits during the pandemic (p < 0.1 %), respectively. On a 5% confidence level, we cannot reject the independence hypothesis between interest in app technology and pandemic-related increased frequency of park visits (P=10,56%). 
+
+Indepence is additionally tested between location sharing and interest in the app (Qx vs Qb; Qc; Qd). Table 15 to Table 17 display the contigency tables and Table 18 to Table 20 the Chi-square tests tables, respectively. 
+
+We observe similar results to the previous case: the results indicate dependence between location sharing and pre-pandemic time spent in parks (p < 5 %) or frequency of park visits (p < 5 %), respectively, while we cannot reject independence between location sharing and pandemic-related increased frequency of park visits (P=87,95%). 
 
 
 
