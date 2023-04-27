@@ -2,11 +2,7 @@
 -- Methodology --
 -----------------
 
-The empirical study is contains 3 parts. In the premilinary stage, we analyse the descriptive structure of the data with tabular summaries (frequencies, cross-tables) and graphical plots. 
-
-In the second stage, we analyse the dependency structure between features by testing for dependence between selected features of interest with χ2-tests.
-
-In the final step, a machine learning prediction task questioning the safety in a public space during the pandemics is performed. 
+The empirical study comprises three parts. In the preliminary stage, we analyze the descriptive structure of the data using tabular summaries (frequencies, cross-tables) and graphical plots. In the second stage, we analyse the dependency structure between features by testing for dependence using χ2-tests among selected features of interest.In the final step, a machine learning prediction task questioning the safety in a public space during the pandemics is performed. 
 
 
 ------------------------
@@ -74,7 +70,20 @@ Most survey participants (64.2 %) are interested in the App. For the usage of th
 ------------------------
 
 The inferential statistical analysis looks for independence among selected features. Given a 5 % confidence level, we test for independence between interest in this new technology and the subjective feeling of safety (physical, SARS-COVID2 related), 
-location sharing, demographical aspects (age, gender) and time spent in a public space, respectively. 
+location sharing, demographical aspects (age, gender) and time spent in a public space, respectively.
+
+We start by analyzing preferences of survey participants and test for independence between demographics (age, gender) and park visit preferences, interests in the app and safety enhancements though the app. 
+
+Table .. to Table .. show that in all cases we cannot reject the hypothesis that gender is independent to all park visit related features. Table .. and Table .. show that the same results apply to testing independence between Age and park related visits, with the expection of indication for dependence and frequency of pre-pademic park visits (p< 5 %).  
+
+We investigrate indepence between demographics (age, gender) and interest in the app. Among demographic features, we cannot reject the hypothesis that gender is independent of interest in app technology (P = 57,38 %). Nevertheless, the test results reveil a hint for dependence between age and interest in the app (P < 5 %). The contigency table illustrates that elder cohorts (> 24 years) are proportionally more interested in the app technology. 
+
+Subjective physical and covid-related safety are tested dependent to Age (both P < 0.1 % ), while only physical safety is tested dependepent to gender (P < 5 %). At a 5 % confidence level, we cannot reject the hypotestis that gender is independent of covid-related sujective safety perception from the app (P = 5,62 %).
+
+
+2. Interest in app, location vs time and frequency spent 
+
+We further look for dependence between interest in app and park visits related variables. 
 
 We question independence between interest in the app and time spent in public spaces (Qa vs Qb; Qc; Qd). Table 9 to Table 11 display the contigency tables and Table 12 to Table 14 the Chi-square tests tables, respectively. 
 
@@ -83,6 +92,15 @@ The tests indicate dependence between interest in the app and time spent in the 
 Indepence is additionally tested between location sharing and interest in the app (Qx vs Qb; Qc; Qd). Table 15 to Table 17 display the contigency tables and Table 18 to Table 20 the Chi-square tests tables, respectively. 
 
 We observe similar results to the previous case: the results indicate dependence between location sharing and pre-pandemic time spent in parks (p < 5 %) or frequency of park visits (p < 5 %), respectively, while we cannot reject independence between location sharing and pandemic-related increased frequency of park visits (P=87,95%). 
+
+
+3. Interest in app, location vs safety 
+
+We analyse the dependence structure between interest in app technology (location sharing) and subjective safety enhancement (Qa (Qd) vs Qy; Qz)
+
+Table 18 to Table 20 illustrate the contingency tables and Table 21 to Table 23 show the test results. The tests indicate dependence between interst in app technology (location sharing) and physical or covid-related safety (P<0.01 % in all cases). 
+
+This result is evident, since all safety related questions are related to interest in monitoring technology. 
 
 
 
