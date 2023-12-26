@@ -44,6 +44,7 @@ def contingencytab(x,y,book):
     q =  max(x.split(), key=len) + ' VS ' + max(y.split(), key=len)
     crosstab, test_results, expected = rp.crosstab(df[x], df[y] ,test= "chi-square",expected_freqs= True,prop= "cell")
     tab = contingency.join(crosstab, rsuffix=' in %')
+    tab = np.transpose(tab)
     tab.to_excel('tables/'+book+'/'+q+'.xlsx') 
     test_results.to_excel('tables/'+book+'/'+q+'_chisq.xlsx') 
     return tab, test_results
