@@ -1,6 +1,10 @@
 import pandas as pd
 import numpy as np
 
+import os
+directory = f'/Users/lilimatic/greenspace'
+os.chdir(directory)
+
 def stats(col):
     features = list(set(', '.join(map(str, df[col].to_numpy())).split(', ')))
     stats = pd.DataFrame(np.array([[int(feature in str(item)) for item in df[col].to_numpy()] for feature in features]).T, columns=features,
@@ -24,39 +28,12 @@ rename = pd.Series(list(df.columns),index=['age','gender','municipality','precov
 df.columns = ['age','gender','municipality','precovid', 'frequency','time', 'activity','socializing','distancing',
 'physicalsafety','covidsafety', 'interest','location']
 
-# Data preprocessing 
+oldcolumns = df.columns
 
-df.gender= df.gender.apply(lambda x: 1 if x== 'Female' else 0 )
+df = df.reset_index(drop=True)
 
-
-binary = ['distancing','physicalsafety','covidsafety', 'interest']
-
-for x in binary:
-    df[x]= df[x].apply(lambda x: 1 if x== 'Yes' else 0 )
-    
 ages = {'7-14': 12.4, '15-24': 19.5, '25-40': 32.5, '41-64': 52.5}
 df['age'] = df['age'].apply(lambda x: ages[x])
-
-#PROBLEM 2
-precov = {
-    'Not at all': 0, 
-    'Rarely, a couple of times per year': 0, #close to not at all
-    'Sometimes, a couple of times per month': 1,
-    'Often, a couple of times per week': 2,
-    'Always, almost every day': 3,
-}
-
-#PROBLEM 2
-df['precovid'] = df['precovid'].apply(lambda x: precov[x])
-
-freq = {
-    'Not at all': 0,
-    'Less frequently': 1,
-    'As frequently': 2,
-    'More frequently': 3,
-}
-
-df['frequency'] = df['frequency'].apply(lambda x: freq[x])
 
 minutes = {
     'Not at all': 0,
@@ -68,32 +45,22 @@ minutes = {
 
 df['time'] = df['time'].apply(lambda x: minutes[x])
 
-loc = {
-    'Yes, at all time':1,
-    'Yes, while using the app': 1,
-    'No, not at all':0,  
-}
+df['safety'] = df.loc[:, 'physicalsafety']
 
-df['location'] = df['location'].apply(lambda x: loc[x])
-
-#Make Activity only 0 or 1 
-
-df.socializing= df.socializing.apply(lambda x: 0 if x== 'Alone or with pets' else 1)
-
-df = df.reset_index(drop=True)
-
-#Hot one encoding for entries, where people were allowed to make multiple choices
-
-#df = pd.concat([df,stats('municipality'),stats('activity')],axis=1)
-
-df['safety'] = df[['physicalsafety']]
-
-#if at least one is different
 df.safety[df[df.physicalsafety != df.covidsafety].index] = 0
 
-df = pd.concat([df,stats('municipality'),stats('activity')],axis=1)
-df = df.drop(columns=['location','municipality', 'activity','interest','physicalsafety','covidsafety']) #'interest','location','socializing' 
+df.safety= df.safety.apply(lambda x: 1 if x== 'Yes' else 0 )
 
-#delete raraly visited municipalities
+hotone = ['gender','distancing', 'precovid','frequency','location'] #'physicalsafety','covidsafety', ,'interest','location'
+
+df = pd.get_dummies(df,columns=hotone)
+
+list_municipalities = stats('municipality')
+list_activities = stats('activity')
+list_socializing = stats('socializing')
+
+df = pd.concat([df,stats('municipality'),stats('activity'),stats('socializing')],axis=1)
+
+df = df.drop(columns=['municipality', 'activity','socializing','physicalsafety','covidsafety','interest']) #'location',
+
 df = df.drop(columns=['Rakovica','Voždovac','Savski Venac','Čukarica','Barajevo', 'Grocka','Surčin', 'Palilula', 'Lazarevac', 'Sopot', 'Obrenovac', 'Mladenovac'])
-
