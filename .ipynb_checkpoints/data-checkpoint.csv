@@ -1,0 +1,452 @@
+Timestamp,1. Gender,2. Age,3. Municipality in which you visit parks or squares after the pandemic : ,4. Has the COVID-19 pandemic modified your usage of open greenspaces? ,5. Do you generally feel safe when you visit parks or squares ?,6. Did the COVID-19 pandemic influence your safety perception in parks or squares?,7. Would you feel physically secure knowing that park or square usage is being monitored and accessible through your phone?,8. Would you be interested in technology that enables  you to track how many people are in specific open greenspace at any point in time?,9. What particular safety concerns bother you?
+1/10/2024 1:06:18,Female,30,"Vračar, Palilula, Savski venac, Zvezdara","Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,Yes,Yes,Park visits at night
+1/10/2024 1:07:21,Female,56,"Novi Beograd, Palilula, Stari grad, Zvezdara","Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,Yes,Yes,Park visits at night
+1/10/2024 1:12:14,Female,34,Novi Beograd,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,I feel less safe,Yes,Yes,Park visits at night
+1/10/2024 1:17:03,Female,48,Vračar,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,I feel less safe,Yes,Yes,Park visits at night
+1/10/2024 1:17:55,Male,28,Savski venac,My visits have become less frequently,No,My perception of safety remained unchanged,Yes,Yes,Visits of overcrowded greenspaces
+1/10/2024 1:18:20,Female,56,Novi Beograd,My visits have become less frequently,Yes,My perception of safety remained unchanged,No,No,Visits of overcrowded greenspaces
+1/10/2024 1:18:55,Male,23,Palilula,My visits have become less frequently,Yes,I feel less safe,Yes,Yes,Unsafe playgrounds
+1/10/2024 1:19:51,Male,63,"Stari grad, Zemun",The usage remained unchanged,Yes,My perception of safety remained unchanged,Yes,Yes,Park visits in deprived areas
+1/10/2024 1:20:25,Male,65,Zemun,My visits have become less frequently,No,I feel less safe,Yes,No,Park visits in deprived areas
+1/10/2024 1:21:21,Female,45,Stari grad,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,I feel less safe,Yes,Yes,Unsafe playgrounds
+1/10/2024 1:24:39,Male,65,"Vračar, Palilula, Savski venac","No, not at all",Yes,I feel less safe,Yes,Yes,Park visits in deprived areas
+1/10/2024 1:33:08,Male,26,Čukarica,"No, not at all",Yes,My perception of safety remained unchanged,Yes,Yes,Park visits in deprived areas
+1/10/2024 1:33:50,Male,46,Zvezdara,My visits have become less frequently,No,I feel less safe,Yes,Yes,Visits of overcrowded greenspaces
+1/10/2024 1:34:28,Female,44,Surčin,The usage remained unchanged,Yes,My perception of safety remained unchanged,Yes,No,Unsafe playgrounds
+1/10/2024 1:34:55,Female,55,Vračar,My visits have become less frequently,No,I feel less safe,No,Yes,Visits of overcrowded greenspaces
+1/10/2024 1:35:12,Female,66,Voždovac,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,I feel less safe,Yes,Yes,Park visits at night
+1/10/2024 1:35:34,Male,36,Grocka,"No, not at all",Yes,My perception of safety remained unchanged,No,No,Visits of overcrowded greenspaces
+1/10/2024 1:36:06,Female,45,Stari grad,My visits have become less frequently,No,I feel less safe,Yes,Yes,Park visits in deprived areas
+1/10/2024 1:36:38,Male,38,Stari grad,My visits have become less frequently,No,I feel safer in open spaces,Yes,Yes,Visits of overcrowded greenspaces
+1/10/2024 1:37:12,Male,33,Rakovica,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",No,I feel less safe,Yes,Yes,Visits of overcrowded greenspaces
+1/10/2024 1:37:36,Female,45,Palilula,"No, not at all",Yes,My perception of safety remained unchanged,No,No,Visits of overcrowded greenspaces
+1/10/2024 1:37:58,Male,46,Surčin,The usage remained unchanged,No,I feel safer in open spaces,No,No,Unsafe playgrounds
+1/10/2024 1:38:21,Female,34,Zvezdara,My visits have become less frequently,No,I feel less safe,Yes,Yes,Park visits at night
+1/10/2024 1:38:45,Female,56,"Voždovac, Vračar",My visits have become less frequently,Yes,I feel less safe,Yes,Yes,Visits of overcrowded greenspaces
+1/10/2024 1:39:06,Male,51,Mladenovac,"No, not at all",Yes,I feel less safe,Yes,Yes,Park visits at night
+1/10/2024 1:39:37,Female,41,Vračar,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,Yes,Yes,Visits of overcrowded greenspaces
+1/10/2024 1:40:07,Female,24,"Savski venac, Stari grad",My visits have become less frequently,Yes,My perception of safety remained unchanged,Yes,Yes,Visits of overcrowded greenspaces
+1/10/2024 1:40:28,Female,43,Novi Beograd,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,I feel less safe,Yes,Yes,Park visits at night
+1/10/2024 1:40:47,Female,23,Voždovac,My visits have become less frequently,No,My perception of safety remained unchanged,No,No,Visits of overcrowded greenspaces
+1/10/2024 1:41:04,Male,33,Barajevo,"No, not at all",Yes,My perception of safety remained unchanged,Yes,Yes,Park visits in deprived areas
+1/10/2024 1:41:30,Female,29,Lazarevac,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,Yes,Yes,Park visits at night
+1/10/2024 1:41:52,Male,47,Stari grad,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",No,My perception of safety remained unchanged,Yes,Yes,Visits of overcrowded greenspaces
+1/10/2024 1:42:17,Female,39,Zemun,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",No,My perception of safety remained unchanged,No,No,Visits of overcrowded greenspaces
+1/10/2024 1:42:44,Male,43,Sopot,My visits have become less frequently,No,I feel less safe,Yes,Yes,Visits of overcrowded greenspaces
+1/10/2024 1:43:05,Male,61,Voždovac,My visits have become less frequently,Yes,I feel less safe,Yes,Yes,Park visits at night
+1/10/2024 1:43:23,Female,44,Čukarica,My visits have become less frequently,No,My perception of safety remained unchanged,No,No,Visits of overcrowded greenspaces
+1/10/2024 4:23:29,Female,60,"Novi Beograd, Zemun",The usage remained unchanged,Yes,I feel safer in open spaces,Yes,Yes,Visits of overcrowded greenspaces
+1/10/2024 6:48:18,Female,53,Zvezdara,My visits have become less frequently,Yes,My perception of safety remained unchanged,No,No,Park visits at night
+1/10/2024 8:28:36,Male,53,"Novi Beograd, Zemun",The usage remained unchanged,Yes,My perception of safety remained unchanged,No,No,Visits of overcrowded greenspaces
+1/10/2024 8:48:22,Female,35,"Voždovac, Vračar, Savski venac, Stari grad, Zvezdara","Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,Yes,Yes,Unsafe playgrounds
+1/10/2024 9:02:59,Female,39,"Vračar, Novi Beograd, Palilula, Stari grad, Zvezdara","No, not at all",Yes,My perception of safety remained unchanged,Yes,Yes,Unsafe playgrounds
+1/10/2024 9:06:33,Female,42,Novi Beograd,The usage remained unchanged,Yes,I feel safer in open spaces,Yes,No,Visits of overcrowded greenspaces
+1/10/2024 9:06:52,Female,48,Voždovac,"No, not at all",No,My perception of safety remained unchanged,Yes,Yes,Park visits at night
+1/10/2024 9:11:36,Male,39,Voždovac,"No, not at all",Yes,My perception of safety remained unchanged,Yes,No,Park visits at night
+1/10/2024 9:17:56,Male,33,Obrenovac,"No, not at all",Yes,My perception of safety remained unchanged,No,No,Visits of overcrowded greenspaces
+1/10/2024 9:24:44,Female,37,"Novi Beograd, Savski venac, Stari grad, Zemun","No, not at all",Yes,My perception of safety remained unchanged,Yes,No,Park visits in deprived areas
+1/10/2024 11:10:58,Female,76,Zvezdara,My visits have become less frequently,Yes,I feel less safe,Yes,No,Visits of overcrowded greenspaces
+1/10/2024 11:11:00,Male,58,Zvezdara,"No, not at all",Yes,My perception of safety remained unchanged,No,No,Unsafe playgrounds
+1/10/2024 11:17:26,Female,42,Rakovica,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,I feel safer in open spaces,Yes,No,Visits of overcrowded greenspaces
+1/10/2024 11:18:21,Female,36,Novi Beograd,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,Yes,Yes,Park visits at night
+1/10/2024 11:20:52,Female,31,"Voždovac, Vračar, Novi Beograd","No, not at all",Yes,My perception of safety remained unchanged,No,No,Park visits at night
+1/10/2024 11:27:21,Female,50,Stari grad,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,I feel safer in open spaces,No,Yes,Unsafe playgrounds
+1/10/2024 11:41:40,Female,43,"Vračar, Novi Beograd, Palilula, Savski venac, Stari grad","No, not at all",Yes,My perception of safety remained unchanged,No,No,Park visits in deprived areas
+1/10/2024 11:50:43,Female,59,Vračar,My visits have become less frequently,Yes,My perception of safety remained unchanged,No,No,Park visits at night
+1/10/2024 13:06:20,Female,58,"Čukarica, Vračar, Novi Beograd, Palilula, Savski venac, Stari grad","No, not at all",Yes,I feel safer in open spaces,No,No,Park visits in deprived areas
+1/10/2024 13:19:10,Female,55,Vračar,"No, not at all",Yes,My perception of safety remained unchanged,No,No,Park visits at night
+1/10/2024 13:19:17,Female,56,"Vračar, Stari grad, Zemun","No, not at all",Yes,I feel safer in open spaces,No,No,Park visits at night
+1/10/2024 13:47:13,Male,30,"Novi Beograd, Sopot",The usage remained unchanged,Yes,My perception of safety remained unchanged,Yes,Yes,Park visits at night
+1/10/2024 13:47:20,Female,19,"Voždovac, Novi Beograd, Rakovica, Savski venac, Stari grad","No, not at all",Yes,My perception of safety remained unchanged,No,No,Park visits at night
+1/10/2024 13:47:24,Male,42,"Čukarica, Novi Beograd, Stari grad, Zemun, Zvezdara","No, not at all",Yes,My perception of safety remained unchanged,No,No,Unsafe playgrounds
+1/10/2024 13:47:46,Male,48,"Voždovac, Vračar, Novi Beograd, Palilula, Stari grad, Zemun, Grocka, Mladenovac","No, not at all",Yes,My perception of safety remained unchanged,Yes,Yes,Park visits at night
+1/10/2024 13:47:48,Female,32,Voždovac,"No, not at all",Yes,My perception of safety remained unchanged,No,No,Park visits at night
+1/10/2024 13:48:24,Female,30,Surčin,"No, not at all",Yes,My perception of safety remained unchanged,No,No,Park visits in deprived areas
+1/10/2024 13:48:35,Female,53,Novi Beograd,"No, not at all",Yes,My perception of safety remained unchanged,Yes,Yes,Park visits at night
+1/10/2024 13:51:24,Female,51,"Čukarica, Vračar, Novi Beograd","Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,Yes,No,Park visits at night
+1/10/2024 13:53:05,Female,34,"Čukarica, Vračar, Novi Beograd, Palilula, Savski venac, Stari grad, Zemun, Zvezdara",The usage remained unchanged,Yes,My perception of safety remained unchanged,No,No,Visits of overcrowded greenspaces
+1/10/2024 13:55:17,Female,45,"Novi Beograd, Zemun","No, not at all",Yes,My perception of safety remained unchanged,No,No,Unsafe playgrounds
+1/10/2024 13:56:48,Female,32,"Novi Beograd, Zemun","No, not at all",Yes,My perception of safety remained unchanged,No,No,Unsafe playgrounds
+1/10/2024 14:03:21,Male,43,Zvezdara,My visits have become less frequently,Yes,I feel less safe,Yes,No,Unsafe playgrounds
+1/10/2024 14:03:30,Male,34,"Voždovac, Vračar, Novi Beograd, Savski venac, Zemun","No, not at all",Yes,My perception of safety remained unchanged,No,No,Unsafe playgrounds
+1/10/2024 14:03:47,Male,43,"Vračar, Novi Beograd, Savski venac, Stari grad, Zemun, Zvezdara, Sopot",The usage remained unchanged,Yes,My perception of safety remained unchanged,No,No,Park visits in deprived areas
+1/10/2024 14:06:24,Female,43,Novi Beograd,"No, not at all",Yes,My perception of safety remained unchanged,Yes,Yes,Unsafe playgrounds
+1/10/2024 14:06:52,Female,64,Čukarica,The usage remained unchanged,Yes,My perception of safety remained unchanged,Yes,No,Park visits in deprived areas
+1/10/2024 14:06:58,Female,35,Zemun,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,I feel safer in open spaces,No,No,Park visits in deprived areas
+1/10/2024 14:09:20,Female,47,Novi Beograd,"No, not at all",No,My perception of safety remained unchanged,No,No,Park visits at night
+1/10/2024 14:10:15,Female,60,"Čukarica, Vračar, Novi Beograd, Rakovica, Savski venac, Stari grad","No, not at all",Yes,I feel safer in open spaces,No,No,Unsafe playgrounds
+1/10/2024 14:12:37,Female,43,"Čukarica, Novi Beograd, Stari grad","Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,No,No,Park visits at night
+1/10/2024 14:14:11,Male,39,"Čukarica, Zemun",The usage remained unchanged,Yes,My perception of safety remained unchanged,No,No,Visits of overcrowded greenspaces
+1/10/2024 14:18:59,Male,56,Novi Beograd,The usage remained unchanged,Yes,My perception of safety remained unchanged,No,No,Unsafe playgrounds
+1/10/2024 14:20:32,Female,33,Novi Beograd,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,I feel safer in open spaces,Yes,Yes,Visits of overcrowded greenspaces
+1/10/2024 14:25:20,Male,21,"Vračar, Stari grad",The usage remained unchanged,Yes,My perception of safety remained unchanged,Yes,Yes,Park visits at night
+1/10/2024 14:27:12,Female,35,Novi Beograd,"No, not at all",Yes,My perception of safety remained unchanged,No,No,Park visits at night
+1/10/2024 14:27:58,Male,37,Stari grad,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,I feel safer in open spaces,Yes,Yes,Park visits in deprived areas
+1/10/2024 14:28:07,Female,22,"Čukarica, Voždovac, Vračar, Novi Beograd, Palilula, Rakovica, Savski venac, Stari grad, Zvezdara","No, not at all",Yes,My perception of safety remained unchanged,Yes,No,Park visits at night
+1/10/2024 14:28:42,Female,35,Novi Beograd,The usage remained unchanged,No,My perception of safety remained unchanged,Yes,Yes,Unsafe playgrounds
+1/10/2024 14:31:36,Female,29,Novi Beograd,"No, not at all",Yes,My perception of safety remained unchanged,No,No,Park visits at night
+1/10/2024 14:33:36,Male,22,"Vračar, Savski venac, Stari grad, Zvezdara","No, not at all",Yes,My perception of safety remained unchanged,No,Yes,Park visits at night
+1/10/2024 14:33:51,Female,30,"Novi Beograd, Stari grad","Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,No,No,Park visits at night
+1/10/2024 14:34:07,Female,52,Novi Beograd,The usage remained unchanged,Yes,My perception of safety remained unchanged,No,No,Park visits at night
+1/10/2024 14:40:50,Female,22,"Novi Beograd, Zemun",The usage remained unchanged,Yes,My perception of safety remained unchanged,No,Yes,Park visits at night
+1/10/2024 14:43:47,Female,27,"Novi Beograd, Savski venac, Zemun","No, not at all",Yes,My perception of safety remained unchanged,No,Yes,Park visits at night
+1/10/2024 14:49:27,Male,28,"Novi Beograd, Zemun","No, not at all",Yes,My perception of safety remained unchanged,No,Yes,Park visits in deprived areas
+1/10/2024 14:55:18,Male,27,Voždovac,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,I feel safer in open spaces,Yes,Yes,Park visits in deprived areas
+1/10/2024 15:00:20,Male,42,Zemun,The usage remained unchanged,Yes,My perception of safety remained unchanged,No,No,Unsafe playgrounds
+1/10/2024 15:07:26,Male,40,"Čukarica, Voždovac, Vračar, Novi Beograd, Savski venac, Stari grad, Zemun","No, not at all",Yes,My perception of safety remained unchanged,Yes,No,Park visits in deprived areas
+1/10/2024 15:15:45,Female,26,"Novi Beograd, Rakovica, Savski venac, Zemun",The usage remained unchanged,Yes,My perception of safety remained unchanged,Yes,Yes,Visits of overcrowded greenspaces
+1/10/2024 15:16:44,Male,38,"Voždovac, Vračar, Novi Beograd, Savski venac, Stari grad, Zvezdara","No, not at all",Yes,My perception of safety remained unchanged,No,No,Unsafe playgrounds
+1/10/2024 15:18:00,Female,22,Voždovac,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,I feel safer in open spaces,No,No,Park visits at night
+1/10/2024 15:24:13,Female,27,Novi Beograd,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,I feel safer in open spaces,No,Yes,Visits of overcrowded greenspaces
+1/10/2024 15:28:00,Male,34,Zemun,The usage remained unchanged,Yes,My perception of safety remained unchanged,No,No,Unsafe playgrounds
+1/10/2024 15:29:07,Female,35,"Vračar, Novi Beograd, Stari grad, Zemun, Zvezdara","No, not at all",Yes,I feel safer in open spaces,Yes,No,Park visits at night
+1/10/2024 15:37:51,Male,58,"Novi Beograd, Palilula, Zemun, Grocka","Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,I feel safer in open spaces,Yes,Yes,Visits of overcrowded greenspaces
+1/10/2024 17:00:16,Male,37,Rakovica,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,No,Yes,Park visits in deprived areas
+1/10/2024 17:37:00,Female,33,Palilula,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",No,I feel safer in open spaces,Yes,Yes,Unsafe playgrounds
+1/10/2024 17:57:50,Male,39,Voždovac,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,No,No,Park visits at night
+1/10/2024 17:58:46,Male,33,Zvezdara,The usage remained unchanged,Yes,My perception of safety remained unchanged,No,No,Unsafe playgrounds
+1/10/2024 18:12:45,Male,47,"Vračar, Palilula","No, not at all",Yes,I feel safer in open spaces,No,No,Visits of overcrowded greenspaces
+1/10/2024 18:29:35,Female,29,"Voždovac, Vračar, Novi Beograd, Palilula, Savski venac, Stari grad, Zemun, Zvezdara","No, not at all",Yes,My perception of safety remained unchanged,No,No,Unsafe playgrounds
+1/10/2024 18:34:42,Female,60,"Čukarica, Voždovac, Vračar, Novi Beograd, Palilula, Rakovica, Savski venac, Stari grad, Zemun","Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,No,No,Park visits at night
+1/10/2024 18:40:39,Male,45,Novi Beograd,"No, not at all",Yes,My perception of safety remained unchanged,No,No,Unsafe playgrounds
+1/10/2024 18:44:28,Male,33,"Voždovac, Vračar",The usage remained unchanged,Yes,My perception of safety remained unchanged,No,No,Park visits in deprived areas
+1/10/2024 18:50:41,Male,35,"Novi Beograd, Stari grad, Zemun, Zvezdara","No, not at all",Yes,My perception of safety remained unchanged,Yes,No,Park visits at night
+1/10/2024 18:53:14,Other,22,"Novi Beograd, Lazarevac",My visits have become less frequently,No,I feel safer in open spaces,Yes,Yes,Park visits at night
+1/10/2024 18:54:02,Male,27,Vračar,The usage remained unchanged,Yes,I feel safer in open spaces,Yes,Yes,Park visits in deprived areas
+1/10/2024 18:54:53,Female,41,"Rakovica, Savski venac","Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,Yes,Yes,Unsafe playgrounds
+1/10/2024 18:55:21,Male,45,Zemun,"No, not at all",Yes,My perception of safety remained unchanged,No,Yes,Park visits in deprived areas
+1/10/2024 19:49:15,Male,57,"Palilula, Grocka",My visits have become less frequently,Yes,My perception of safety remained unchanged,Yes,Yes,Park visits at night
+1/10/2024 19:50:42,Female,35,Zvezdara,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,Yes,Yes,Park visits in deprived areas
+1/10/2024 19:51:16,Male,32,Stari grad,My visits have become less frequently,No,I feel less safe,Yes,Yes,Park visits in deprived areas
+1/10/2024 19:51:48,Female,42,"Obrenovac, Mladenovac","Yes, I visit greenspaces  more frequently and actively than before the pandemic",No,My perception of safety remained unchanged,Yes,Yes,Park visits in deprived areas
+1/10/2024 19:55:06,Female,23,"Palilula, Stari grad, Zvezdara","No, not at all",Yes,My perception of safety remained unchanged,No,No,Park visits at night
+1/10/2024 20:03:20,Male,63,Palilula,The usage remained unchanged,Yes,I feel safer in open spaces,Yes,Yes,Park visits in deprived areas
+1/10/2024 20:07:45,Female,60,"Vračar, Palilula, Stari grad","Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,Yes,Yes,Park visits at night
+1/10/2024 20:08:40,Female,48,"Vračar, Savski venac","Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,I feel safer in open spaces,Yes,Yes,Visits of overcrowded greenspaces
+1/10/2024 20:10:46,Male,30,"Voždovac, Rakovica",The usage remained unchanged,Yes,I feel safer in open spaces,Yes,Yes,Visits of overcrowded greenspaces
+1/10/2024 20:13:36,Female,34,"Vračar, Palilula","Yes, I visit greenspaces  more frequently and actively than before the pandemic",No,I feel safer in open spaces,Yes,Yes,Park visits in deprived areas
+1/10/2024 20:14:33,Male,26,"Novi Beograd, Stari grad, Zemun",The usage remained unchanged,Yes,My perception of safety remained unchanged,No,No,Unsafe playgrounds
+1/10/2024 20:15:14,Female,58,"Vračar, Zemun","Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,Yes,Yes,Park visits at night
+1/10/2024 20:19:33,Male,55,"Voždovac, Vračar, Zemun","Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,Yes,Yes,Park visits at night
+1/10/2024 20:22:27,Male,54,Novi Beograd,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,I feel less safe,Yes,Yes,Visits of overcrowded greenspaces
+1/10/2024 20:22:53,Male,38,Palilula,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",No,I feel safer in open spaces,Yes,Yes,Visits of overcrowded greenspaces
+1/10/2024 20:28:43,Female,58,Čukarica,"No, not at all",Yes,My perception of safety remained unchanged,Yes,No,Park visits in deprived areas
+1/10/2024 20:28:55,Female,62,Stari grad,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,Yes,No,Park visits at night
+1/10/2024 20:33:46,Male,35,"Stari grad, Barajevo","No, not at all",Yes,My perception of safety remained unchanged,Yes,Yes,Visits of overcrowded greenspaces
+1/10/2024 20:33:59,Female,60,"Čukarica, Novi Beograd","Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,No,No,Park visits at night
+1/10/2024 20:36:02,Male,58,"Vračar, Novi Beograd, Savski venac, Zvezdara",The usage remained unchanged,Yes,My perception of safety remained unchanged,Yes,No,Visits of overcrowded greenspaces
+1/10/2024 20:36:08,Female,44,"Savski venac, Stari grad","Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,I feel safer in open spaces,Yes,Yes,Park visits at night
+1/10/2024 20:38:18,Male,47,"Rakovica, Zvezdara","Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,I feel safer in open spaces,Yes,Yes,Park visits in deprived areas
+1/10/2024 20:50:52,Male,33,"Voždovac, Vračar, Novi Beograd, Stari grad, Zvezdara, Sopot","No, not at all",Yes,My perception of safety remained unchanged,No,No,Park visits at night
+1/10/2024 20:55:18,Female,33,"Voždovac, Vračar, Novi Beograd, Stari grad, Zvezdara",The usage remained unchanged,Yes,My perception of safety remained unchanged,Yes,Yes,Park visits at night
+1/10/2024 20:56:10,Male,30,Zvezdara,"No, not at all",Yes,I feel less safe,Yes,Yes,Park visits at night
+1/10/2024 20:57:46,Female,42,Voždovac,My visits have become less frequently,Yes,My perception of safety remained unchanged,Yes,Yes,Park visits in deprived areas
+1/10/2024 20:57:47,Female,34,"Voždovac, Vračar, Novi Beograd, Stari grad, Zemun, Zvezdara","No, not at all",Yes,My perception of safety remained unchanged,No,Yes,Unsafe playgrounds
+1/10/2024 21:03:12,Other,21,"Zemun, Zvezdara, Surčin","Yes, I visit greenspaces  more frequently and actively than before the pandemic",No,I feel less safe,Yes,Yes,Unsafe playgrounds
+1/10/2024 21:04:00,Female,56,Novi Beograd,"No, not at all",Yes,My perception of safety remained unchanged,No,No,Park visits at night
+1/10/2024 21:04:34,Female,45,Lazarevac,The usage remained unchanged,Yes,My perception of safety remained unchanged,Yes,Yes,Park visits in deprived areas
+1/10/2024 21:06:18,Male,63,"Grocka, Surčin",My visits have become less frequently,No,I feel safer in open spaces,Yes,Yes,Visits of overcrowded greenspaces
+1/10/2024 21:10:03,Male,30,"Vračar, Novi Beograd, Rakovica, Savski venac, Stari grad","Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,Yes,No,Park visits in deprived areas
+1/10/2024 21:14:47,Female,40,Barajevo,The usage remained unchanged,Yes,I feel safer in open spaces,Yes,Yes,Park visits in deprived areas
+1/10/2024 21:15:10,Male,44,Vračar,My visits have become less frequently,Yes,I feel less safe,Yes,Yes,Park visits at night
+1/10/2024 21:15:27,Other,18,Mladenovac,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",No,I feel safer in open spaces,Yes,Yes,Unsafe playgrounds
+1/10/2024 21:15:52,Female,42,Mladenovac,"No, not at all",Yes,My perception of safety remained unchanged,No,No,Park visits at night
+1/10/2024 21:16:13,Male,58,"Voždovac, Palilula, Rakovica, Zemun","Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,I feel safer in open spaces,No,Yes,Park visits in deprived areas
+1/10/2024 21:17:07,Female,55,Novi Beograd,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,Yes,No,Park visits at night
+1/10/2024 21:18:17,Male,32,"Savski venac, Stari grad, Zemun, Zvezdara",My visits have become less frequently,Yes,I feel safer in open spaces,No,Yes,Park visits in deprived areas
+1/10/2024 21:18:43,Female,57,Obrenovac,The usage remained unchanged,No,My perception of safety remained unchanged,No,No,Unsafe playgrounds
+1/10/2024 21:18:58,Female,59,"Vračar, Savski venac, Stari grad, Sopot",The usage remained unchanged,Yes,My perception of safety remained unchanged,Yes,Yes,Unsafe playgrounds
+1/10/2024 21:19:14,Female,20,"Palilula, Rakovica, Savski venac, Zvezdara",The usage remained unchanged,Yes,I feel less safe,No,No,Park visits in deprived areas
+1/10/2024 21:22:31,Male,40,Zemun,My visits have become less frequently,Yes,I feel less safe,No,No,Park visits at night
+1/10/2024 21:22:52,Male,42,Mladenovac,The usage remained unchanged,Yes,I feel safer in open spaces,Yes,Yes,Unsafe playgrounds
+1/10/2024 21:23:41,Female,38,"Čukarica, Voždovac, Stari grad","No, not at all",Yes,My perception of safety remained unchanged,No,No,Park visits at night
+1/10/2024 21:24:12,Female,29,"Čukarica, Savski venac, Grocka","Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,No,Yes,Visits of overcrowded greenspaces
+1/10/2024 21:25:41,Male,38,"Novi Beograd, Stari grad, Zemun","No, not at all",Yes,My perception of safety remained unchanged,Yes,No,Unsafe playgrounds
+1/10/2024 21:25:53,Male,45,Čukarica,"No, not at all",Yes,My perception of safety remained unchanged,No,No,Park visits at night
+1/10/2024 21:25:56,Male,44,"Novi Beograd, Zvezdara","No, not at all",Yes,My perception of safety remained unchanged,Yes,Yes,Park visits at night
+1/10/2024 21:26:15,Male,41,Zemun,"No, not at all",Yes,I feel safer in open spaces,No,Yes,Park visits at night
+1/10/2024 21:27:05,Male,47,"Čukarica, Novi Beograd, Stari grad","No, not at all",Yes,My perception of safety remained unchanged,Yes,No,Unsafe playgrounds
+1/10/2024 21:27:38,Female,31,"Vračar, Novi Beograd, Palilula, Savski venac, Stari grad, Zemun",The usage remained unchanged,Yes,My perception of safety remained unchanged,Yes,Yes,Park visits in deprived areas
+1/10/2024 21:27:49,Female,37,Mladenovac,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,Yes,Yes,Park visits at night
+1/10/2024 21:27:51,Female,40,"Savski venac, Stari grad","No, not at all",No,I feel less safe,No,No,Park visits at night
+1/10/2024 21:28:01,Male,37,Zvezdara,"No, not at all",Yes,My perception of safety remained unchanged,No,No,Unsafe playgrounds
+1/10/2024 21:28:32,Male,45,Mladenovac,"No, not at all",Yes,My perception of safety remained unchanged,No,No,Park visits in deprived areas
+1/10/2024 21:28:37,Female,24,Zemun,"No, not at all",Yes,My perception of safety remained unchanged,No,No,Park visits at night
+1/10/2024 21:28:45,Female,34,Mladenovac,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,I feel safer in open spaces,No,No,Unsafe playgrounds
+1/10/2024 21:29:36,Male,44,"Čukarica, Novi Beograd, Stari grad, Zemun, Grocka, Lazarevac, Obrenovac, Mladenovac, Sopot, Surčin",The usage remained unchanged,Yes,My perception of safety remained unchanged,Yes,Yes,Visits of overcrowded greenspaces
+1/10/2024 21:32:16,Female,36,"Voždovac, Vračar, Novi Beograd, Savski venac, Stari grad, Zemun, Zvezdara, Surčin",The usage remained unchanged,Yes,I feel safer in open spaces,Yes,Yes,Unsafe playgrounds
+1/10/2024 21:32:50,Female,42,Novi Beograd,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,I feel safer in open spaces,No,Yes,Park visits at night
+1/10/2024 21:33:01,Female,34,"Rakovica, Mladenovac",The usage remained unchanged,Yes,My perception of safety remained unchanged,No,No,Park visits in deprived areas
+1/10/2024 21:33:18,Male,40,Rakovica,"No, not at all",Yes,My perception of safety remained unchanged,No,No,Unsafe playgrounds
+1/10/2024 21:33:40,Female,42,Mladenovac,The usage remained unchanged,Yes,I feel safer in open spaces,No,No,Unsafe playgrounds
+1/10/2024 21:35:22,Male,37,"Voždovac, Vračar, Novi Beograd, Rakovica, Zemun, Zvezdara, Obrenovac",The usage remained unchanged,Yes,My perception of safety remained unchanged,No,No,Visits of overcrowded greenspaces
+1/10/2024 21:38:37,Male,34,Voždovac,"No, not at all",Yes,My perception of safety remained unchanged,No,No,Unsafe playgrounds
+1/10/2024 21:39:18,Male,47,Novi Beograd,"No, not at all",Yes,My perception of safety remained unchanged,No,No,Park visits at night
+1/10/2024 21:39:30,Female,31,Mladenovac,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,Yes,Yes,Unsafe playgrounds
+1/10/2024 21:44:46,Male,30,"Novi Beograd, Zvezdara",The usage remained unchanged,Yes,My perception of safety remained unchanged,Yes,No,Park visits at night
+1/10/2024 21:45:11,Female,42,Mladenovac,The usage remained unchanged,Yes,My perception of safety remained unchanged,Yes,Yes,Unsafe playgrounds
+1/10/2024 21:46:20,Female,60,"Vračar, Novi Beograd, Stari grad",The usage remained unchanged,Yes,My perception of safety remained unchanged,No,No,Park visits at night
+1/10/2024 21:50:33,Male,34,Zemun,"No, not at all",Yes,My perception of safety remained unchanged,Yes,No,Park visits at night
+1/10/2024 21:54:49,Male,30,"Novi Beograd, Stari grad, Zemun","Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,I feel less safe,No,No,Visits of overcrowded greenspaces
+1/10/2024 21:55:03,Female,37,Zvezdara,"No, not at all",Yes,My perception of safety remained unchanged,Yes,No,Visits of overcrowded greenspaces
+1/10/2024 21:57:06,Male,37,"Vračar, Zvezdara",The usage remained unchanged,Yes,My perception of safety remained unchanged,No,No,Park visits at night
+1/10/2024 21:57:55,Male,24,"Stari grad, Zemun",The usage remained unchanged,Yes,My perception of safety remained unchanged,No,No,Park visits in deprived areas
+1/10/2024 21:59:14,Female,27,"Vračar, Stari grad","No, not at all",Yes,My perception of safety remained unchanged,No,No,Park visits in deprived areas
+1/10/2024 21:59:36,Male,28,"Voždovac, Vračar, Savski venac, Stari grad, Zvezdara","No, not at all",Yes,My perception of safety remained unchanged,No,No,Park visits in deprived areas
+1/10/2024 22:00:46,Female,33,"Novi Beograd, Savski venac, Zemun, Obrenovac","Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,Yes,Yes,Visits of overcrowded greenspaces
+1/10/2024 22:02:36,Male,35,Zemun,"No, not at all",Yes,My perception of safety remained unchanged,No,No,Visits of overcrowded greenspaces
+1/10/2024 22:03:10,Male,41,"Voždovac, Stari grad","No, not at all",Yes,My perception of safety remained unchanged,Yes,Yes,Park visits at night
+1/10/2024 22:07:18,Male,38,Čukarica,The usage remained unchanged,Yes,My perception of safety remained unchanged,No,No,Park visits in deprived areas
+1/10/2024 22:07:21,Male,30,"Vračar, Stari grad, Zvezdara","No, not at all",Yes,I feel safer in open spaces,Yes,Yes,Unsafe playgrounds
+1/10/2024 22:08:42,Female,43,Voždovac,The usage remained unchanged,Yes,My perception of safety remained unchanged,No,No,Unsafe playgrounds
+1/10/2024 22:09:24,Male,42,"Vračar, Novi Beograd, Savski venac, Stari grad, Zemun, Zvezdara, Surčin",My visits have become less frequently,Yes,My perception of safety remained unchanged,Yes,Yes,Unsafe playgrounds
+1/10/2024 22:09:48,Female,41,Čukarica,"No, not at all",Yes,My perception of safety remained unchanged,No,No,Park visits in deprived areas
+1/10/2024 22:10:27,Female,27,"Palilula, Savski venac, Stari grad","No, not at all",Yes,I feel safer in open spaces,Yes,Yes,Park visits at night
+1/10/2024 22:12:01,Male,40,"Novi Beograd, Zemun, Surčin",The usage remained unchanged,Yes,I feel safer in open spaces,Yes,Yes,Park visits at night
+1/10/2024 22:12:12,Female,22,Stari grad,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,Yes,Yes,Visits of overcrowded greenspaces
+1/10/2024 22:13:09,Male,38,Novi Beograd,The usage remained unchanged,Yes,My perception of safety remained unchanged,Yes,No,Unsafe playgrounds
+1/10/2024 22:15:39,Male,21,Vračar,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",No,I feel safer in open spaces,Yes,Yes,Visits of overcrowded greenspaces
+1/10/2024 22:16:57,Female,35,"Čukarica, Vračar, Novi Beograd, Savski venac, Stari grad, Zemun","No, not at all",Yes,My perception of safety remained unchanged,No,No,Park visits at night
+1/10/2024 22:17:04,Male,22,"Novi Beograd, Stari grad, Zemun","Yes, I visit greenspaces  more frequently and actively than before the pandemic",No,I feel safer in open spaces,Yes,Yes,Park visits at night
+1/10/2024 22:17:33,Female,38,Mladenovac,My visits have become less frequently,Yes,I feel safer in open spaces,No,No,Unsafe playgrounds
+1/10/2024 22:18:34,Male,29,Obrenovac,The usage remained unchanged,Yes,My perception of safety remained unchanged,No,No,Visits of overcrowded greenspaces
+1/10/2024 22:23:22,Male,43,Grocka,"No, not at all",Yes,My perception of safety remained unchanged,No,No,Park visits at night
+1/10/2024 22:26:51,Female,37,"Čukarica, Vračar","No, not at all",Yes,My perception of safety remained unchanged,No,No,Park visits at night
+1/10/2024 22:31:02,Male,31,"Vračar, Novi Beograd, Palilula, Savski venac, Stari grad, Zemun, Zvezdara","No, not at all",Yes,I feel safer in open spaces,Yes,No,Unsafe playgrounds
+1/10/2024 22:31:40,Male,39,Čukarica,"No, not at all",Yes,I feel less safe,Yes,Yes,Park visits in deprived areas
+1/10/2024 22:35:24,Female,51,"Vračar, Palilula, Stari grad","No, not at all",Yes,I feel safer in open spaces,Yes,Yes,Park visits at night
+1/10/2024 22:42:49,Male,47,Čukarica,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,I feel safer in open spaces,No,No,Park visits at night
+1/10/2024 22:48:34,Female,31,"Čukarica, Voždovac, Vračar, Novi Beograd, Rakovica, Savski venac, Stari grad, Zemun, Zvezdara","No, not at all",Yes,My perception of safety remained unchanged,Yes,No,Park visits at night
+1/10/2024 22:48:37,Male,39,"Novi Beograd, Stari grad, Zemun","Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,I feel less safe,Yes,Yes,Visits of overcrowded greenspaces
+1/10/2024 22:51:09,Female,45,"Vračar, Novi Beograd, Savski venac, Stari grad, Zemun, Zvezdara","Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,I feel less safe,Yes,Yes,Visits of overcrowded greenspaces
+1/10/2024 22:52:50,Female,34,Grocka,The usage remained unchanged,Yes,My perception of safety remained unchanged,No,Yes,Park visits at night
+1/10/2024 22:55:28,Male,32,Čukarica,The usage remained unchanged,Yes,My perception of safety remained unchanged,No,No,Park visits in deprived areas
+1/10/2024 22:56:55,Male,43,Voždovac,"No, not at all",Yes,I feel safer in open spaces,No,Yes,Park visits in deprived areas
+1/10/2024 23:03:37,Male,39,Novi Beograd,The usage remained unchanged,Yes,My perception of safety remained unchanged,No,Yes,Park visits at night
+1/10/2024 23:16:13,Female,29,"Voždovac, Vračar, Novi Beograd, Savski venac","Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,Yes,Yes,Park visits at night
+1/10/2024 23:33:26,Male,31,Novi Beograd,My visits have become less frequently,Yes,I feel safer in open spaces,Yes,Yes,Visits of overcrowded greenspaces
+1/10/2024 23:54:59,Female,22,Zvezdara,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,I feel safer in open spaces,Yes,Yes,Park visits at night
+1/10/2024 23:57:45,Male,43,Novi Beograd,My visits have become less frequently,Yes,I feel safer in open spaces,Yes,No,Unsafe playgrounds
+1/11/2024 0:11:52,Male,41,Zemun,"No, not at all",Yes,My perception of safety remained unchanged,No,No,Visits of overcrowded greenspaces
+1/11/2024 1:47:32,Female,22,Čukarica,"No, not at all",Yes,My perception of safety remained unchanged,Yes,Yes,Park visits at night
+1/11/2024 2:00:35,Female,41,Vračar,The usage remained unchanged,Yes,My perception of safety remained unchanged,Yes,Yes,Park visits at night
+1/11/2024 2:42:56,Male,42,"Stari grad, Obrenovac","No, not at all",Yes,I feel safer in open spaces,No,No,Park visits at night
+1/11/2024 4:28:36,Female,36,Zvezdara,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,No,Yes,Park visits at night
+1/11/2024 6:31:48,Female,26,"Voždovac, Vračar, Novi Beograd, Savski venac, Stari grad, Zemun",My visits have become less frequently,Yes,My perception of safety remained unchanged,No,No,Park visits at night
+1/11/2024 7:10:02,Female,39,Vračar,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,Yes,No,Park visits in deprived areas
+1/11/2024 7:10:03,Male,39,Savski venac,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,Yes,No,Park visits in deprived areas
+1/11/2024 7:14:52,Male,28,Voždovac,"No, not at all",Yes,My perception of safety remained unchanged,No,No,Park visits at night
+1/11/2024 7:22:37,Female,35,Zvezdara,My visits have become less frequently,Yes,My perception of safety remained unchanged,No,No,Unsafe playgrounds
+1/11/2024 7:26:14,Male,39,Zvezdara,"No, not at all",Yes,I feel safer in open spaces,Yes,Yes,Park visits at night
+1/11/2024 7:38:20,Male,39,Zvezdara,My visits have become less frequently,No,I feel less safe,No,Yes,Park visits in deprived areas
+1/11/2024 7:58:50,Male,46,Voždovac,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,I feel safer in open spaces,No,Yes,Park visits at night
+1/11/2024 8:05:48,Female,69,Stari grad,The usage remained unchanged,Yes,I feel less safe,No,No,Park visits at night
+1/11/2024 8:55:31,Female,38,Zemun,The usage remained unchanged,Yes,My perception of safety remained unchanged,No,No,Unsafe playgrounds
+1/11/2024 9:00:35,Female,40,Stari grad,My visits have become less frequently,Yes,I feel less safe,Yes,Yes,Unsafe playgrounds
+1/11/2024 9:08:05,Male,44,Voždovac,The usage remained unchanged,Yes,My perception of safety remained unchanged,No,No,Unsafe playgrounds
+1/11/2024 9:10:02,Male,44,Voždovac,The usage remained unchanged,Yes,My perception of safety remained unchanged,No,No,Unsafe playgrounds
+1/11/2024 9:26:29,Female,38,Novi Beograd,My visits have become less frequently,Yes,I feel safer in open spaces,No,No,Visits of overcrowded greenspaces
+1/11/2024 9:49:08,Male,30,"Čukarica, Voždovac, Vračar, Novi Beograd, Stari grad, Zemun, Zvezdara","No, not at all",Yes,My perception of safety remained unchanged,No,No,Unsafe playgrounds
+1/11/2024 9:52:36,Female,68,Stari grad,"No, not at all",Yes,My perception of safety remained unchanged,Yes,No,Unsafe playgrounds
+1/11/2024 9:52:49,Female,42,"Čukarica, Vračar, Palilula, Rakovica, Stari grad, Zemun","No, not at all",Yes,My perception of safety remained unchanged,Yes,Yes,Park visits at night
+1/11/2024 9:54:04,Male,33,Obrenovac,The usage remained unchanged,Yes,I feel safer in open spaces,Yes,Yes,Park visits at night
+1/11/2024 10:02:20,Male,38,Zvezdara,The usage remained unchanged,Yes,My perception of safety remained unchanged,No,No,Park visits in deprived areas
+1/11/2024 10:02:56,Male,42,Čukarica,"No, not at all",Yes,I feel safer in open spaces,No,No,Park visits at night
+1/11/2024 10:20:05,Male,59,Stari grad,"No, not at all",Yes,My perception of safety remained unchanged,No,No,Unsafe playgrounds
+1/11/2024 10:42:15,Male,33,Novi Beograd,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,No,No,Unsafe playgrounds
+1/11/2024 11:00:26,Female,41,Vračar,"No, not at all",Yes,My perception of safety remained unchanged,No,No,Park visits at night
+1/11/2024 11:31:09,Male,38,"Novi Beograd, Palilula, Zvezdara","No, not at all",Yes,My perception of safety remained unchanged,No,No,Unsafe playgrounds
+1/11/2024 11:33:27,Male,39,Palilula,The usage remained unchanged,Yes,My perception of safety remained unchanged,Yes,Yes,Visits of overcrowded greenspaces
+1/11/2024 12:27:24,Male,33,Novi Beograd,"No, not at all",Yes,My perception of safety remained unchanged,No,No,Park visits in deprived areas
+1/11/2024 12:41:28,Male,21,"Palilula, Stari grad",My visits have become less frequently,Yes,My perception of safety remained unchanged,Yes,Yes,Visits of overcrowded greenspaces
+1/11/2024 13:18:40,Female,59,Vračar,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,I feel safer in open spaces,Yes,No,Park visits at night
+1/11/2024 13:19:56,Female,20,Vračar,"No, not at all",Yes,My perception of safety remained unchanged,No,No,Park visits at night
+1/11/2024 13:25:38,Male,60,Vračar,"No, not at all",Yes,My perception of safety remained unchanged,Yes,No,Unsafe playgrounds
+1/11/2024 13:32:38,Female,25,"Čukarica, Voždovac, Vračar, Novi Beograd, Savski venac, Zemun","No, not at all",Yes,My perception of safety remained unchanged,Yes,No,Park visits at night
+1/11/2024 13:48:33,Female,24,Čukarica,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,I feel safer in open spaces,Yes,No,Park visits at night
+1/11/2024 14:12:28,Male,44,Stari grad,"No, not at all",Yes,I feel safer in open spaces,Yes,Yes,Visits of overcrowded greenspaces
+1/11/2024 14:13:24,Female,55,"Vračar, Palilula, Savski venac","Yes, I visit greenspaces  more frequently and actively than before the pandemic",No,I feel safer in open spaces,Yes,Yes,Park visits at night
+1/11/2024 14:14:24,Female,31,"Čukarica, Rakovica","Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,I feel safer in open spaces,Yes,Yes,Park visits at night
+1/11/2024 14:15:18,Male,45,"Novi Beograd, Surčin","No, not at all",Yes,I feel safer in open spaces,Yes,Yes,Visits of overcrowded greenspaces
+1/11/2024 14:51:35,Male,29,"Novi Beograd, Zvezdara","No, not at all",Yes,My perception of safety remained unchanged,Yes,No,Park visits in deprived areas
+1/11/2024 16:39:39,Male,36,Novi Beograd,"No, not at all",Yes,My perception of safety remained unchanged,No,No,Visits of overcrowded greenspaces
+1/11/2024 17:56:37,Female,33,Zemun,"No, not at all",Yes,My perception of safety remained unchanged,No,No,Park visits in deprived areas
+1/11/2024 18:31:19,Female,33,Novi Beograd,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,No,Yes,Unsafe playgrounds
+1/11/2024 20:55:12,Male,58,Zvezdara,"No, not at all",Yes,My perception of safety remained unchanged,Yes,Yes,Park visits at night
+1/11/2024 21:48:39,Male,60,Obrenovac,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,I feel safer in open spaces,Yes,Yes,Unsafe playgrounds
+1/11/2024 21:49:13,Female,53,Obrenovac,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,I feel safer in open spaces,Yes,Yes,Unsafe playgrounds
+1/11/2024 21:59:06,Female,38,Vračar,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,Yes,Yes,Park visits at night
+1/11/2024 22:09:02,Female,43,"Stari grad, Zvezdara","Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,Yes,Yes,Visits of overcrowded greenspaces
+1/11/2024 22:12:05,Male,44,"Čukarica, Rakovica","Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,I feel safer in open spaces,Yes,Yes,Park visits in deprived areas
+1/11/2024 22:14:35,Male,55,"Vračar, Palilula, Savski venac, Zvezdara","Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,I feel safer in open spaces,Yes,Yes,Park visits in deprived areas
+1/11/2024 22:59:07,Female,33,Novi Beograd,"No, not at all",Yes,My perception of safety remained unchanged,Yes,Yes,Park visits at night
+1/11/2024 23:04:22,Female,39,Novi Beograd,"No, not at all",No,My perception of safety remained unchanged,No,No,Visits of overcrowded greenspaces
+1/11/2024 23:34:22,Male,23,Vračar,"No, not at all",Yes,My perception of safety remained unchanged,Yes,No,Park visits at night
+1/11/2024 23:37:20,Male,64,Sopot,The usage remained unchanged,Yes,My perception of safety remained unchanged,Yes,Yes,Park visits in deprived areas
+1/11/2024 23:57:36,Female,60,"Voždovac, Novi Beograd, Stari grad","No, not at all",Yes,My perception of safety remained unchanged,Yes,No,Park visits in deprived areas
+1/12/2024 9:01:03,Male,46,"Novi Beograd, Zemun","No, not at all",Yes,My perception of safety remained unchanged,Yes,No,Park visits at night
+1/12/2024 9:09:27,Male,44,"Voždovac, Savski venac, Stari grad, Zvezdara, Barajevo",The usage remained unchanged,Yes,My perception of safety remained unchanged,No,No,Unsafe playgrounds
+1/12/2024 9:26:30,Male,45,Stari grad,"No, not at all",Yes,My perception of safety remained unchanged,No,No,Visits of overcrowded greenspaces
+1/12/2024 9:33:16,Male,47,Rakovica,The usage remained unchanged,Yes,My perception of safety remained unchanged,No,No,Visits of overcrowded greenspaces
+1/12/2024 9:44:07,Male,46,Novi Beograd,The usage remained unchanged,Yes,My perception of safety remained unchanged,Yes,Yes,Park visits at night
+1/12/2024 10:12:15,Female,28,"Voždovac, Vračar, Palilula",The usage remained unchanged,Yes,I feel safer in open spaces,No,No,Park visits in deprived areas
+1/12/2024 10:35:37,Male,45,Zvezdara,"No, not at all",Yes,My perception of safety remained unchanged,No,No,Unsafe playgrounds
+1/12/2024 15:26:23,Female,55,Novi Beograd,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,Yes,No,Park visits at night
+1/12/2024 16:21:51,Female,58,Palilula,My visits have become less frequently,Yes,My perception of safety remained unchanged,Yes,No,Park visits at night
+1/12/2024 17:34:17,Male,45,"Čukarica, Novi Beograd, Zemun","No, not at all",Yes,My perception of safety remained unchanged,No,No,Unsafe playgrounds
+1/12/2024 17:50:00,Male,46,"Čukarica, Voždovac, Vračar, Novi Beograd, Rakovica",The usage remained unchanged,Yes,I feel safer in open spaces,No,Yes,Park visits at night
+1/12/2024 18:08:11,Female,43,"Voždovac, Novi Beograd, Rakovica, Stari grad","No, not at all",Yes,My perception of safety remained unchanged,Yes,No,Unsafe playgrounds
+1/12/2024 19:57:32,Female,40,Grocka,"No, not at all",Yes,I feel safer in open spaces,No,Yes,Park visits at night
+1/12/2024 23:05:05,Male,42,"Novi Beograd, Stari grad","No, not at all",Yes,I feel safer in open spaces,No,No,Park visits at night
+1/12/2024 23:10:11,Male,43,Vračar,"No, not at all",Yes,I feel less safe,Yes,Yes,Visits of overcrowded greenspaces
+1/12/2024 23:13:26,Male,43,"Čukarica, Voždovac, Vračar, Novi Beograd, Palilula, Savski venac, Stari grad, Zemun","No, not at all",Yes,I feel safer in open spaces,No,No,Park visits in deprived areas
+1/12/2024 23:16:13,Female,41,Voždovac,"No, not at all",Yes,My perception of safety remained unchanged,Yes,Yes,Unsafe playgrounds
+1/12/2024 23:46:27,Male,(42,Novi Beograd,"No, not at all",Yes,My perception of safety remained unchanged,No,No,Unsafe playgrounds
+1/13/2024 0:01:56,Female,46,"Novi Beograd, Palilula, Zemun",The usage remained unchanged,Yes,I feel safer in open spaces,Yes,Yes,Visits of overcrowded greenspaces
+1/13/2024 0:02:50,Male,21,"Novi Beograd, Surčin","No, not at all",Yes,I feel safer in open spaces,Yes,Yes,Park visits at night
+1/13/2024 9:17:23,Male,22,Lazarevac,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,Yes,Yes,Park visits in deprived areas
+1/13/2024 9:18:38,Female,21,"Palilula, Zvezdara","Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,I feel safer in open spaces,Yes,Yes,Park visits at night
+1/13/2024 9:19:34,Male,28,"Novi Beograd, Zemun","Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,Yes,Yes,Park visits in deprived areas
+1/13/2024 9:20:38,Female,35,"Palilula, Savski venac, Stari grad",The usage remained unchanged,Yes,I feel safer in open spaces,Yes,Yes,Park visits at night
+1/13/2024 9:24:59,Female,60,"Palilula, Sopot","No, not at all",Yes,My perception of safety remained unchanged,Yes,Yes,Park visits at night
+1/13/2024 9:26:22,Female,35,Zvezdara,"No, not at all",No,I feel safer in open spaces,Yes,Yes,Visits of overcrowded greenspaces
+1/13/2024 9:27:18,Female,32,"Čukarica, Rakovica",The usage remained unchanged,No,I feel safer in open spaces,Yes,Yes,Unsafe playgrounds
+1/13/2024 9:27:27,Female,44,Stari grad,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,No,No,Unsafe playgrounds
+1/13/2024 9:29:26,Male,43,Voždovac,"No, not at all",Yes,My perception of safety remained unchanged,No,No,Unsafe playgrounds
+1/13/2024 9:34:01,Male,31,"Vračar, Palilula","Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,I feel safer in open spaces,Yes,Yes,Park visits in deprived areas
+1/13/2024 9:36:09,Male,44,"Zvezdara, Grocka","Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,Yes,Yes,Park visits in deprived areas
+1/13/2024 9:37:03,Male,22,"Novi Beograd, Zemun","Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,I feel safer in open spaces,Yes,Yes,Park visits at night
+1/13/2024 9:38:25,Male,21,"Voždovac, Stari grad",The usage remained unchanged,Yes,I feel safer in open spaces,Yes,Yes,Park visits in deprived areas
+1/13/2024 9:39:36,Female,21,"Novi Beograd, Zemun",The usage remained unchanged,Yes,My perception of safety remained unchanged,Yes,Yes,Park visits at night
+1/13/2024 9:41:49,Female,25,"Palilula, Zvezdara",My visits have become less frequently,Yes,My perception of safety remained unchanged,Yes,Yes,Park visits at night
+1/13/2024 9:43:10,Male,24,Obrenovac,"No, not at all",Yes,My perception of safety remained unchanged,Yes,Yes,Visits of overcrowded greenspaces
+1/13/2024 9:44:28,Male,23,"Vračar, Palilula, Stari grad",The usage remained unchanged,Yes,My perception of safety remained unchanged,Yes,Yes,Park visits at night
+1/13/2024 9:45:31,Female,22,"Čukarica, Stari grad",The usage remained unchanged,No,I feel safer in open spaces,Yes,Yes,Visits of overcrowded greenspaces
+1/13/2024 9:50:46,Female,21,"Novi Beograd, Stari grad","Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,I feel safer in open spaces,Yes,Yes,Park visits at night
+1/13/2024 11:09:02,Male,34,Mladenovac,"No, not at all",Yes,My perception of safety remained unchanged,Yes,Yes,Park visits in deprived areas
+1/13/2024 12:11:17,Female,35,"Voždovac, Vračar, Savski venac","No, not at all",Yes,I feel safer in open spaces,Yes,Yes,Park visits in deprived areas
+1/13/2024 12:22:04,Male,24,"Novi Beograd, Surčin",My visits have become less frequently,Yes,I feel safer in open spaces,Yes,Yes,Visits of overcrowded greenspaces
+1/13/2024 12:27:41,Female,21,"Voždovac, Vračar, Savski venac",The usage remained unchanged,Yes,I feel safer in open spaces,Yes,Yes,Park visits in deprived areas
+1/13/2024 15:22:07,Female,56,Stari grad,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",No,I feel less safe,Yes,Yes,Park visits at night
+1/13/2024 15:22:26,Male,57,Zemun,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,Yes,Yes,Visits of overcrowded greenspaces
+1/13/2024 15:22:52,Male,56,Čukarica,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,Yes,Yes,Park visits at night
+1/13/2024 15:23:14,Female,45,Voždovac,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,I feel safer in open spaces,Yes,Yes,Visits of overcrowded greenspaces
+1/13/2024 15:24:00,Female,44,Vračar,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",No,I feel less safe,Yes,Yes,Park visits at night
+1/13/2024 15:24:19,Female,45,Čukarica,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,I feel less safe,Yes,Yes,Park visits in deprived areas
+1/13/2024 15:25:37,Female,35,Zvezdara,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,I feel less safe,Yes,Yes,Unsafe playgrounds
+1/13/2024 19:17:20,Male,49,Zemun,The usage remained unchanged,Yes,My perception of safety remained unchanged,Yes,Yes,Park visits at night
+1/13/2024 21:04:25,Female,59,Zemun,"No, not at all",Yes,My perception of safety remained unchanged,Yes,Yes,Park visits at night
+1/13/2024 21:45:08,Male,43,"Čukarica, Voždovac, Novi Beograd, Savski venac, Stari grad, Surčin","No, not at all",Yes,My perception of safety remained unchanged,No,Yes,Park visits at night
+1/14/2024 14:52:09,Male,34,"Voždovac, Barajevo","Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,No,Yes,Park visits in deprived areas
+1/15/2024 12:01:50,Female,56,Vračar,"No, not at all",Yes,My perception of safety remained unchanged,Yes,Yes,Park visits at night
+1/15/2024 21:47:51,Female,26,"Novi Beograd, Zemun",The usage remained unchanged,Yes,I feel safer in open spaces,Yes,No,Park visits in deprived areas
+1/15/2024 21:53:25,Male,29,Savski venac,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",No,My perception of safety remained unchanged,No,No,Park visits at night
+1/15/2024 21:57:24,Male,29,Vračar,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,Yes,Yes,Park visits at night
+1/15/2024 21:59:15,Female,29,"Novi Beograd, Savski venac, Stari grad, Zvezdara","No, not at all",Yes,My perception of safety remained unchanged,Yes,No,Park visits at night
+1/15/2024 22:00:45,Female,21,"Vračar, Novi Beograd, Savski venac, Zemun","No, not at all",Yes,My perception of safety remained unchanged,No,No,Unsafe playgrounds
+1/15/2024 22:03:10,Female,23,"Voždovac, Vračar, Zvezdara","No, not at all",Yes,My perception of safety remained unchanged,No,No,Park visits at night
+1/15/2024 22:03:20,Female,29,Voždovac,"No, not at all",Yes,My perception of safety remained unchanged,No,No,Park visits at night
+1/15/2024 22:10:34,Female,28,Zvezdara,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",No,My perception of safety remained unchanged,Yes,Yes,Park visits in deprived areas
+1/15/2024 22:41:15,Female,29,"Vračar, Savski venac, Stari grad, Zvezdara",The usage remained unchanged,Yes,My perception of safety remained unchanged,No,No,Park visits in deprived areas
+1/15/2024 22:46:18,Female,29,"Palilula, Stari grad, Zvezdara",The usage remained unchanged,Yes,My perception of safety remained unchanged,No,No,Park visits in deprived areas
+1/15/2024 22:49:22,Female,29,"Vračar, Palilula, Savski venac, Stari grad","No, not at all",Yes,My perception of safety remained unchanged,No,No,Park visits at night
+1/15/2024 23:24:09,Female,21,Voždovac,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,Yes,No,Park visits at night
+1/15/2024 23:59:45,Female,21,Stari grad,"No, not at all",Yes,My perception of safety remained unchanged,No,No,Park visits in deprived areas
+1/16/2024 0:03:33,Male,21,"Zvezdara, Grocka",The usage remained unchanged,Yes,I feel safer in open spaces,Yes,Yes,Park visits in deprived areas
+1/16/2024 0:04:29,Female,32,"Čukarica, Rakovica, Savski venac","No, not at all",Yes,I feel safer in open spaces,Yes,Yes,Park visits at night
+1/16/2024 8:29:22,Female,34,"Vračar, Palilula",The usage remained unchanged,Yes,My perception of safety remained unchanged,No,No,Unsafe playgrounds
+1/16/2024 9:32:02,Female,27,Palilula,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,Yes,Yes,Park visits at night
+1/16/2024 11:16:33,Female,28,Zvezdara,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,Yes,No,Park visits at night
+1/16/2024 12:04:05,Female,38,Vračar,"No, not at all",Yes,My perception of safety remained unchanged,Yes,No,Park visits at night
+1/16/2024 13:42:55,Male,61,Zvezdara,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,Yes,Yes,Park visits at night
+1/16/2024 13:44:04,Female,48,Vračar,The usage remained unchanged,Yes,My perception of safety remained unchanged,Yes,No,Park visits in deprived areas
+1/16/2024 13:45:11,Female,44,Čukarica,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",No,I feel less safe,Yes,Yes,Visits of overcrowded greenspaces
+1/16/2024 15:41:41,Male,38,Palilula,My visits have become less frequently,No,I feel less safe,Yes,Yes,Visits of overcrowded greenspaces
+1/16/2024 15:42:13,Female,34,Novi Beograd,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,I feel less safe,Yes,Yes,Park visits at night
+1/16/2024 15:42:32,Female,45,Vračar,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,I feel less safe,Yes,Yes,Park visits at night
+1/16/2024 15:42:57,Female,56,Rakovica,"No, not at all",Yes,My perception of safety remained unchanged,Yes,No,Unsafe playgrounds
+1/16/2024 15:43:13,Male,46,Zvezdara,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,Yes,Yes,Park visits in deprived areas
+1/16/2024 15:51:58,Female,56,Zvezdara,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,Yes,Yes,Park visits at night
+1/16/2024 16:44:33,Female,21,"Vračar, Palilula, Stari grad",The usage remained unchanged,Yes,I feel less safe,Yes,Yes,Park visits at night
+1/16/2024 16:45:16,Female,23,Čukarica,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,No,No,Park visits in deprived areas
+1/16/2024 16:45:38,Female,20,"Voždovac, Vračar, Novi Beograd, Palilula, Savski venac, Stari grad, Zvezdara","Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,Yes,Yes,Park visits at night
+1/16/2024 16:48:44,Male,37,"Voždovac, Vračar, Stari grad, Zemun","No, not at all",Yes,My perception of safety remained unchanged,No,No,Park visits in deprived areas
+1/16/2024 16:51:04,Female,38,Stari grad,My visits have become less frequently,Yes,My perception of safety remained unchanged,No,No,Park visits in deprived areas
+1/16/2024 16:51:26,Female,50,Voždovac,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,I feel safer in open spaces,Yes,No,Visits of overcrowded greenspaces
+1/16/2024 16:52:25,Female,21,"Voždovac, Vračar, Novi Beograd, Palilula, Zemun","No, not at all",Yes,My perception of safety remained unchanged,Yes,No,Visits of overcrowded greenspaces
+1/16/2024 16:52:55,Female,55,Čukarica,My visits have become less frequently,Yes,I feel safer in open spaces,Yes,No,Park visits in deprived areas
+1/16/2024 16:53:14,Female,28,Stari grad,"No, not at all",Yes,My perception of safety remained unchanged,No,No,Park visits in deprived areas
+1/16/2024 16:56:57,Male,36,"Vračar, Palilula, Zvezdara","No, not at all",Yes,My perception of safety remained unchanged,No,No,Park visits in deprived areas
+1/16/2024 16:57:17,Female,31,Voždovac,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,I feel safer in open spaces,Yes,Yes,Visits of overcrowded greenspaces
+1/16/2024 17:03:15,Female,24,Zemun,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,No,Yes,Park visits at night
+1/16/2024 17:05:04,Female,20,"Vračar, Stari grad","No, not at all",Yes,My perception of safety remained unchanged,No,No,Park visits at night
+1/16/2024 17:10:23,Female,26,"Stari grad, Zvezdara",The usage remained unchanged,Yes,My perception of safety remained unchanged,Yes,Yes,Park visits at night
+1/16/2024 17:14:11,Female,21,"Vračar, Novi Beograd, Palilula, Savski venac, Stari grad, Zemun, Zvezdara, Barajevo, Grocka","Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,Yes,Yes,Park visits at night
+1/16/2024 17:15:22,Female,25,Vračar,The usage remained unchanged,Yes,I feel safer in open spaces,Yes,Yes,Park visits at night
+1/16/2024 17:22:14,Female,20,"Palilula, Stari grad, Zemun","No, not at all",Yes,My perception of safety remained unchanged,Yes,Yes,Park visits at night
+1/16/2024 17:22:37,Male,58,Novi Beograd,"No, not at all",Yes,My perception of safety remained unchanged,Yes,Yes,Park visits at night
+1/16/2024 17:23:32,Female,20,"Čukarica, Novi Beograd, Rakovica","Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,No,No,Park visits at night
+1/16/2024 17:26:23,Female,23,Rakovica,"No, not at all",Yes,My perception of safety remained unchanged,No,No,Park visits in deprived areas
+1/16/2024 17:30:53,Female,59,"Čukarica, Palilula","No, not at all",Yes,My perception of safety remained unchanged,Yes,Yes,Park visits at night
+1/16/2024 17:35:44,Female,20,Voždovac,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",No,My perception of safety remained unchanged,Yes,Yes,Park visits at night
+1/16/2024 17:46:50,Female,41,"Vračar, Palilula","Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,Yes,Yes,Visits of overcrowded greenspaces
+1/16/2024 17:47:06,Male,58,"Novi Beograd, Zemun","Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,I feel safer in open spaces,Yes,Yes,Park visits at night
+1/16/2024 17:50:34,Female,50,Voždovac,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,Yes,Yes,Unsafe playgrounds
+1/16/2024 17:52:00,Female,83,Voždovac,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,Yes,Yes,Unsafe playgrounds
+1/16/2024 17:57:09,Female,25,Novi Beograd,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,I feel safer in open spaces,Yes,Yes,Unsafe playgrounds
+1/16/2024 17:58:30,Male,29,Novi Beograd,"No, not at all",Yes,My perception of safety remained unchanged,Yes,Yes,Unsafe playgrounds
+1/16/2024 17:58:41,Female,26,"Stari grad, Sopot",The usage remained unchanged,Yes,My perception of safety remained unchanged,Yes,No,Park visits in deprived areas
+1/16/2024 18:18:20,Female,20,"Vračar, Palilula, Savski venac, Stari grad, Zvezdara",The usage remained unchanged,Yes,My perception of safety remained unchanged,Yes,Yes,Park visits at night
+1/16/2024 18:34:59,Female,20,Čukarica,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,Yes,Yes,Park visits at night
+1/16/2024 18:54:23,Female,22,Zvezdara,"No, not at all",Yes,My perception of safety remained unchanged,Yes,Yes,Park visits at night
+1/16/2024 18:54:59,Female,27,Savski venac,"No, not at all",Yes,My perception of safety remained unchanged,No,No,Park visits at night
+1/16/2024 18:55:57,Female,21,Čukarica,The usage remained unchanged,Yes,I feel safer in open spaces,Yes,No,Park visits at night
+1/16/2024 19:14:53,Female,23,"Čukarica, Novi Beograd","Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,Yes,Yes,Park visits in deprived areas
+1/16/2024 19:17:31,Female,24,"Vračar, Novi Beograd, Palilula, Stari grad, Zvezdara","Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,No,Yes,Visits of overcrowded greenspaces
+1/16/2024 19:27:19,Female,23,"Vračar, Zvezdara","Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,Yes,Yes,Park visits at night
+1/16/2024 19:30:41,Female,34,Novi Beograd,The usage remained unchanged,Yes,My perception of safety remained unchanged,Yes,Yes,Visits of overcrowded greenspaces
+1/16/2024 19:33:19,Female,20,Čukarica,"No, not at all",Yes,My perception of safety remained unchanged,No,Yes,Visits of overcrowded greenspaces
+1/16/2024 19:40:13,Female,20,"Voždovac, Vračar, Palilula, Rakovica, Savski venac, Stari grad",The usage remained unchanged,Yes,My perception of safety remained unchanged,No,No,Unsafe playgrounds
+1/16/2024 20:00:02,Female,20,Palilula,"No, not at all",Yes,My perception of safety remained unchanged,No,Yes,Park visits in deprived areas
+1/16/2024 21:09:41,Female,60,"Palilula, Stari grad","No, not at all",Yes,My perception of safety remained unchanged,No,No,Park visits at night
+1/16/2024 21:24:42,Female,30,"Vračar, Palilula","No, not at all",Yes,My perception of safety remained unchanged,No,No,Park visits at night
+1/16/2024 23:06:09,Male,20,Čukarica,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,Yes,No,Park visits in deprived areas
+1/16/2024 23:06:25,Female,20,Surčin,"No, not at all",Yes,My perception of safety remained unchanged,No,No,Park visits at night
+1/16/2024 23:43:49,Female,23,"Voždovac, Vračar","Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,No,Yes,Park visits at night
+1/16/2024 23:52:14,Female,20,"Zvezdara, Mladenovac",The usage remained unchanged,No,My perception of safety remained unchanged,No,No,Park visits at night
+1/17/2024 0:07:08,Male,37,"Vračar, Novi Beograd, Zvezdara",The usage remained unchanged,Yes,I feel safer in open spaces,No,Yes,Unsafe playgrounds
+1/17/2024 0:12:22,Female,20,"Čukarica, Vračar, Savski venac, Stari grad","No, not at all",Yes,My perception of safety remained unchanged,Yes,Yes,Park visits in deprived areas
+1/17/2024 8:42:46,Female,34,"Voždovac, Vračar, Savski venac, Zvezdara","No, not at all",Yes,My perception of safety remained unchanged,Yes,Yes,Unsafe playgrounds
+1/17/2024 9:22:27,Male,22,"Vračar, Palilula, Stari grad",The usage remained unchanged,Yes,I feel safer in open spaces,Yes,Yes,Visits of overcrowded greenspaces
+1/17/2024 9:28:51,Male,36,Zemun,My visits have become less frequently,Yes,My perception of safety remained unchanged,Yes,Yes,Visits of overcrowded greenspaces
+1/17/2024 9:40:44,Male,46,"Novi Beograd, Zemun","No, not at all",Yes,My perception of safety remained unchanged,No,No,Unsafe playgrounds
+1/17/2024 9:45:50,Male,43,"Čukarica, Voždovac, Vračar, Novi Beograd, Palilula, Rakovica, Savski venac, Stari grad, Zemun, Zvezdara, Barajevo, Grocka, Lazarevac, Obrenovac, Mladenovac, Sopot, Surčin","No, not at all",Yes,My perception of safety remained unchanged,No,No,Unsafe playgrounds
+1/17/2024 9:47:20,Male,41,Zemun,The usage remained unchanged,Yes,My perception of safety remained unchanged,No,No,Unsafe playgrounds
+1/17/2024 10:06:50,Female,23,Čukarica,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,No,No,Visits of overcrowded greenspaces
+1/17/2024 12:19:26,Male,46,Obrenovac,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,I feel less safe,Yes,No,Unsafe playgrounds
+1/17/2024 12:19:50,Female,33,Surčin,The usage remained unchanged,Yes,My perception of safety remained unchanged,Yes,No,Unsafe playgrounds
+1/17/2024 12:20:37,Female,46,Zemun,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,Yes,No,Visits of overcrowded greenspaces
+1/17/2024 12:21:48,Female,61,Savski venac,My visits have become less frequently,No,I feel less safe,No,Yes,Unsafe playgrounds
+1/17/2024 12:22:18,Male,46,Mladenovac,My visits have become less frequently,Yes,My perception of safety remained unchanged,No,Yes,Unsafe playgrounds
+1/17/2024 12:22:54,Female,34,Novi Beograd,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,I feel safer in open spaces,Yes,Yes,Park visits at night
+1/17/2024 12:23:29,Male,28,Zemun,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,Yes,Yes,Park visits in deprived areas
+1/17/2024 12:24:24,Male,30,Novi Beograd,"No, not at all",Yes,My perception of safety remained unchanged,No,Yes,Park visits at night
+1/17/2024 12:25:23,Female,26,Savski venac,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,I feel safer in open spaces,Yes,Yes,Park visits at night
+1/17/2024 12:25:50,Female,24,Stari grad,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,I feel safer in open spaces,Yes,No,Park visits at night
+1/17/2024 12:29:27,Female,18,Zvezdara,"No, not at all",Yes,My perception of safety remained unchanged,Yes,Yes,Park visits in deprived areas
+1/17/2024 12:29:58,Male,23,Vračar,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,I feel safer in open spaces,Yes,Yes,Park visits at night
+1/17/2024 12:57:23,Female,21,Čukarica,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,I feel safer in open spaces,Yes,Yes,Park visits at night
+1/17/2024 13:30:15,Female,20,Novi Beograd,My visits have become less frequently,Yes,I feel safer in open spaces,Yes,Yes,Park visits at night
+1/17/2024 15:32:19,Female,20,Zvezdara,"No, not at all",Yes,My perception of safety remained unchanged,Yes,Yes,Park visits at night
+1/18/2024 3:01:56,Female,20,"Palilula, Stari grad, Zvezdara","No, not at all",Yes,My perception of safety remained unchanged,Yes,Yes,Park visits in deprived areas
+1/18/2024 15:23:45,Female,22,Obrenovac,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,I feel less safe,No,No,Park visits at night
+1/18/2024 16:48:53,Female,22,Palilula,The usage remained unchanged,Yes,My perception of safety remained unchanged,No,No,Park visits in deprived areas
+1/18/2024 18:10:02,Male,41,Vračar,"No, not at all",Yes,I feel less safe,No,Yes,Park visits in deprived areas
+1/18/2024 19:59:55,Female,45,Novi Beograd,"No, not at all",Yes,My perception of safety remained unchanged,No,No,Unsafe playgrounds
+1/18/2024 20:07:46,Male,52,Zemun,"Yes, I visit greenspaces  more frequently and actively than before the pandemic",Yes,My perception of safety remained unchanged,No,No,Park visits at night
+1/19/2024 12:12:24,Male,20,"Vračar, Savski venac","No, not at all",Yes,I feel safer in open spaces,Yes,Yes,Park visits in deprived areas
+1/19/2024 13:20:11,Female,20,"Novi Beograd, Palilula, Zemun",The usage remained unchanged,No,My perception of safety remained unchanged,Yes,Yes,Park visits at night
+1/20/2024 7:15:28,Female,22,"Vračar, Novi Beograd, Zvezdara",The usage remained unchanged,Yes,My perception of safety remained unchanged,Yes,No,Park visits at night
+1/20/2024 22:45:12,Female,24,"Voždovac, Zvezdara, Grocka",My visits have become less frequently,Yes,I feel safer in open spaces,Yes,Yes,Visits of overcrowded greenspaces
+1/22/2024 21:15:12,Female,20,"Vračar, Novi Beograd, Palilula, Rakovica, Stari grad, Zemun",The usage remained unchanged,Yes,My perception of safety remained unchanged,Yes,No,Park visits at night
+1/31/2024 22:11:01,Male,40,Palilula,"No, not at all",Yes,My perception of safety remained unchanged,No,No,Unsafe playgrounds
